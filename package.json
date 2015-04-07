@@ -1,0 +1,11 @@
+{
+  "name": "es6-express-api",
+  "version": "0.0.1",
+  "description": "Boilerplate of an ES6 Express API",
+  "main": "index.js",
+  "author": "Stefan Grönke <stefan@gronke.net>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
