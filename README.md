@@ -15,6 +15,9 @@ Options
 Variable    | Default | Description
 ----------- | ------- | -----------
 PORT        | 3000    | Listen on this TCP port
+DEBUG_LEVEL | 1       | Increase value to get more verbose output. Supported debug levels are listed in `lib/Debug.js`
+
+
 Usage
 -----
 
