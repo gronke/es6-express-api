@@ -9,7 +9,7 @@ var port = process.env['PORT'] || 3000;
 
 var Route = require('./lib/Route');
 var route = new Route('/api/v1', app, {
-	baseDir: path.resolve(__dirname)
+	baseDir: path.resolve(__dirname, '/api/v1')
 });
 
 var server = app.listen(port, host, function () {
