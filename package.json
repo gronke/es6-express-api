@@ -1,6 +1,6 @@
 {
   "name": "es6-express-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Boilerplate of an ES6 Express API",
   "main": "index.js",
   "author": "Stefan Grönke <stefan@gronke.net>",
@@ -13,5 +13,14 @@
   },
   "scripts": {
     "test": "iojs --harmony node_modules/nodeunit/bin/nodeunit"
-  }
+  },
+  "repository": "gronke/es6-express-api",
+  "bugs": {
+    "url" : "https://github.com/gronke/es6-express-api/issues"
+  },
+  "keywords": [
+    "es6",
+    "express",
+    "api"
+  ]
 }
