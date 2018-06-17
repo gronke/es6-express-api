@@ -6,7 +6,7 @@
   "author": "Stefan Grönke <stefan@gronke.net>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.16.3"
   },
   "devDependencies": {
     "nodeunit": "^0.9.1"
