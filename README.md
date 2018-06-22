@@ -4,7 +4,6 @@ ES6 Express API Boilerplate
 Dependencies
 ------------
 
- - io.js with ```--harmony``` flag
  - NPM packages from ```packages.json```
 
 Options
@@ -21,6 +20,8 @@ DEBUG_LEVEL | 1       | Increase value to get more verbose output. Supported deb
 Usage
 -----
 
+The standalone server implementation is a demo app. The loaded routes are defined in the `api/` folder.
+
 ```sh
-iojs --harmony_classes index.js
+node standalone.js
 ```
