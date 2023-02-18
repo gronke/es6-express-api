@@ -1,1 +1,0 @@
-web: iojs --harmony index.js
